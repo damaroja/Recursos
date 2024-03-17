@@ -1,0 +1,30 @@
+
+//*********************
+Descarga del certificado del dni
+//*********************
+
+Lo primero que tienes que hacer es bajar la aplicación de Certificado Digital FNMT, disponible en Google Play. Una vez entres en ella e inicies sesión, en la pantalla principal pulsa en la opción Solicitar Certificado Digital que te aparecerá arriba del todo en azul.
+
+Esto te va a llevar a una pantalla donde puedes realizar tres tipos de solicitud de certificado. En ella, pulsa en la opción de Lectura de DNIe que te aparecerá abajo del todo. Esto te llevará a la pantalla de Términos y condiciones, en la que tienes que bajar abajo del todo y pulsar en Aceptar y continuar.
+
+A continuación, vas a iniciar el proceso de solicitud. En él, primero tienes que introducir tu correo electrónico real, y se te enviará un código que tendrás que introducir en el siguiente paso del proceso.
+
+
+Después, tendrás que escribir el código CAN de tu DNI, que aparece en la parte inferior derecha del frontal. Después, tendrás que escribir el PIN de tu DNI, que es ese que te dieron en un sobre la última vez que renovaste el DNI en comisaría. Tendrás que escribirlo correctamente, y ten cuidado, porque si fallas tres veces al intentarlo se bloqueará el certificado del DNI.
+
+
+Y por último, tendrás que escanear tu DNIe con el NFC del móvil. Para eso, tendrás que poner el DNI debajo de tu teléfono para establecer conexión, y mantener ahí el móvil en los segundos que tarda en leerlo y verificarlo. Y ya está, si todo ha ido bien, el proceso se completará confirmando la expedición.
+
+Entonces, la app te dirá que el certificado digital está en trámite, pero ya lo tendrás bajado en el móvil en el apartado de Solicitudes. Además, en la carpeta de descargas de tu móvil tendrás un documento con extensión .p12, que es el certificado que podrás pasar a otros dispositivos e instalarlo usando el PIN de tu DNI.
+
+//**********************
+intalacion el navegador Firefox
+//**********************
+Ajustes => Privacidad/seguridad => certificados => ver certificados => importar (importas el archivo .p12) y con el autofirma ya puedes firmar y autenticarte en la sede electronica.
+
+
+
+
+
+
+
